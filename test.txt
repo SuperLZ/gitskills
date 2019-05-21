@@ -1,1 +1,2 @@
 添加的第二个文件
+Creating a new branch is quick.
